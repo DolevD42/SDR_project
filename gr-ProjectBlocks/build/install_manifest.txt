@@ -1,0 +1,13 @@
+/usr/local/lib/cmake/gnuradio-ProjectBlocks/gnuradio-ProjectBlocksConfig.cmake
+/usr/local/include/gnuradio/ProjectBlocks/api.h
+/usr/local/lib/python3.12/dist-packages/gnuradio/ProjectBlocks/__init__.py
+/usr/local/lib/python3.12/dist-packages/gnuradio/ProjectBlocks/PWModulator.py
+/usr/local/lib/python3.12/dist-packages/gnuradio/ProjectBlocks/PWDemodulator.py
+/usr/local/lib/python3.12/dist-packages/gnuradio/ProjectBlocks/__init__.pyc
+/usr/local/lib/python3.12/dist-packages/gnuradio/ProjectBlocks/PWModulator.pyc
+/usr/local/lib/python3.12/dist-packages/gnuradio/ProjectBlocks/PWDemodulator.pyc
+/usr/local/lib/python3.12/dist-packages/gnuradio/ProjectBlocks/__init__.pyo
+/usr/local/lib/python3.12/dist-packages/gnuradio/ProjectBlocks/PWModulator.pyo
+/usr/local/lib/python3.12/dist-packages/gnuradio/ProjectBlocks/PWDemodulator.pyo
+/usr/local/share/gnuradio/grc/blocks/ProjectBlocks_PWModulator.block.yml
+/usr/local/share/gnuradio/grc/blocks/ProjectBlocks_PWDemodulator.block.yml
